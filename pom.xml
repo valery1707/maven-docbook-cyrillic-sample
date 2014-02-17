@@ -17,6 +17,16 @@
 		</license>
 	</licenses>
 
+	<scm>
+		<url>https://github.com/valery1707/maven-docbook-cyrillic-sample</url>
+		<connection>scm:git:https://github.com/valery1707/maven-docbook-cyrillic-sample.git</connection>
+		<developerConnection>scm:git:ssh://git@github.com/valery1707/maven-docbook-cyrillic-sample.git</developerConnection>
+	</scm>
+	<issueManagement>
+		<system>GitHub</system>
+		<url>https://github.com/valery1707/maven-docbook-cyrillic-sample/issues</url>
+	</issueManagement>
+
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
