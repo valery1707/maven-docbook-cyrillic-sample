@@ -1,0 +1,2 @@
+maven-docbook-cyrillic-sample
+=============================
